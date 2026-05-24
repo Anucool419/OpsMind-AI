@@ -119,6 +119,11 @@ system reliability and incident analysis quality.
 - Autonomous remediation agents
 - Multi-tenant incident analytics
 
+## Note
+
+This project uses simulated observability logs and monitoring connectors to demonstrate incident analysis workflows in a production-inspired environment.
+The architecture is designed to support integration with real monitoring platforms such as Datadog, Grafana, and New Relic APIs.
+
 ## Contributors
 
 - Ananya Srinivasan  
