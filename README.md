@@ -1,4 +1,7 @@
-# OpsMind AI
+# OpsMind AI — Multi-Agent Incident RCA Architecture
+
+<img width="1811" height="735" alt="image" src="https://github.com/user-attachments/assets/0aaf7e0d-9ed4-4af3-8356-8ed11b1f001b" />
+
 
 AI-powered incident root cause analysis platform
 for DevOps and SRE teams.
@@ -21,7 +24,8 @@ Solution:  An AI agent that connects with monitoring tools like Datadog, Grafana
 - Streamlit-based observability dashboard
 
 ## Architecture
-(add architecture image)
+<img width="783" height="1100" alt="Dia drawio" src="https://github.com/user-attachments/assets/936108a1-80b8-43d0-a2bb-f0f3855cc2cf" />
+
 
 
 ## Tech Stack
@@ -82,10 +86,15 @@ streamlit run app/streamlit_app.py
 
 
 ## Screenshots
-(add screenshots)
+<img width="1314" height="777" alt="Screenshot 2026-05-24 172751" src="https://github.com/user-attachments/assets/0aab40f1-f8c5-4a3d-b8fa-3360cc6fa54e" />
+
+<img width="1303" height="785" alt="Screenshot 2026-05-24 172819" src="https://github.com/user-attachments/assets/ecd1b3c8-03e7-4b75-819a-3f702eba795b" />
+
+<img width="1319" height="572" alt="Screenshot 2026-05-24 172835" src="https://github.com/user-attachments/assets/15cfa0f4-e56f-4e0a-9f1c-7677bbd380e3" />
 
 ## Demo
-(add deployed link)
+Video link : 
+Deployed link :
 
 ## Evaluation Metrics
 OpsMind AI includes an evaluation layer to measure
