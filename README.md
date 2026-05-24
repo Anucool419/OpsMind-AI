@@ -93,8 +93,9 @@ streamlit run app/streamlit_app.py
 <img width="1319" height="572" alt="Screenshot 2026-05-24 172835" src="https://github.com/user-attachments/assets/15cfa0f4-e56f-4e0a-9f1c-7677bbd380e3" />
 
 ## Demo
-Video link : https://www.youtube.com/watch?v=OTj5cE5ortQ
-Deployed link : https://opsmind-ai-fuonkmwfprksqhivxcddh6.streamlit.app/
+#### Video link : https://www.youtube.com/watch?v=OTj5cE5ortQ
+
+#### Deployed link : https://opsmind-ai-fuonkmwfprksqhivxcddh6.streamlit.app/
 
 ## Evaluation Metrics
 OpsMind AI includes an evaluation layer to measure
