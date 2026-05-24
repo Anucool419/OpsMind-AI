@@ -1,0 +1,100 @@
+### General template for gitignore is below:
+# # Local notes and env
+# notes.txt
+# .env
+
+# # Virtual environments
+# /virt/
+# venv/
+# env/
+
+# # Python cache and bytecode
+# __pycache__/
+# *.py[cod]
+# *$py.class
+
+# # Distribution / packaging
+# build/
+# dist/
+# eggs/
+# *.egg-info/
+# .eggs/
+
+# # Testing
+# .tox/
+# .nox/
+# .pytest_cache/
+# .coverage
+
+# # Type checkers / caches
+# .mypy_cache/
+# .pyre/
+# .pytype/
+# .cache/
+
+# # Notebook checkpoints
+# .ipynb_checkpoints/
+
+# # IDE/editor
+# .vscode/
+# .idea/
+# *.sublime-project
+# *.sublime-workspace
+
+# # OS files
+# .DS_Store
+# Thumbs.db
+# desktop.ini
+
+# # Logs and runtime files
+# *.log
+# logs/
+# app/data/logs/
+# *.pid
+
+# # Model artifacts and large binaries
+# models/
+# *.ckpt
+# *.pt
+# *.pth
+# *.bin
+# *.h5
+
+# # HF / transformers cache
+# hf_cache/
+# transformers_cache/
+
+# # Streamlit local runtime (keep config.toml if you want it tracked)
+# .streamlit/local.toml
+
+# # Secrets and keys
+# secrets/
+# *.key
+# *.pem
+# *.env.local
+
+# # Databases
+# *.sqlite
+# *.db
+
+# # Misc
+# htmlcov/
+# coverage.xml
+# report/
+
+#Actual .gitignore for this project
+# Virtualenv
+virt/
+
+# Local secrets / env
+.env
+
+# Personal notes
+notes.txt
+
+# Runtime logs
+app/data/logs/
+
+# Python bytecode
+__pycache__/
+*.py[cod]
