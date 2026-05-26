@@ -97,6 +97,7 @@ streamlit run app/streamlit_app.py
 
 #### Deployed link : https://opsmind-ai-fuonkmwfprksqhivxcddh6.streamlit.app/
 
+#### Dev.io post : https://dev.to/zeroshotanu/how-i-built-an-ai-powered-incident-rca-platform-with-langgraph-and-rag-423j
 ## Evaluation Metrics
 OpsMind AI includes an evaluation layer to measure
 system reliability and incident analysis quality.
